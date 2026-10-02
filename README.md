@@ -1,5 +1,7 @@
 # trend-radar
 
+[![tests](https://github.com/fatinnihal532-hub/trend-radar/actions/workflows/tests.yml/badge.svg)](https://github.com/fatinnihal532-hub/trend-radar/actions/workflows/tests.yml)
+
 Find out what is taking off on GitHub right now, how each project got there, and whether
 it is still growing.
 
